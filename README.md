@@ -7,7 +7,9 @@ This repository contains basic frontend code for a simple website. The code cons
 ## File Structure
 
 frontend-basics/
+
 │
+
 ├── index.html # Main HTML file containing the structure of the webpage
 
 ├── style.css # CSS file containing styles for the webpage
